@@ -1,0 +1,42 @@
+[
+    {
+        "id":"A1",
+        "name":"Clair de Lune",
+        "composer":"Debussy, Claude",
+        "henle":5,
+        "rcm":10,
+        "abrsm":8,
+        "rating":[1, 5, 5, 5, 5, 5, 4, 4 ,3],
+        "era": "Impressionist",
+        "instrument":"piano",
+        "nationality":"French"
+    },
+    {
+        "id":"A2",
+        "name":"Sonata I g minor BWV 1001",
+        "composer":"Bach, Johann Sebastian",
+        "henle":7,
+        "rcm":"DIP",
+        "abrsm":"DIP",
+        "rating":[1, 5, 2, 3, 2, 5, 4, 4 ,3],
+        "era": "Baroque",
+        "instrument":"violin",
+        "nationality":"German"
+
+
+    },
+    {
+        "id":"A3",
+        "name":"Twinkle Twinkle Little Star",
+        "composer":"Mozart, Wolfgang Amadeus",
+        "henle":1,
+        "rcm":1,
+        "abrsm":1,
+        "rating":[1, 2, 2, 3, 3, 4 ,3],
+        "era": "Classical",
+        "instrument":"piano",
+        "nationality":"Austrian"
+
+
+    }
+]

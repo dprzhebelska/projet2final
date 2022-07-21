@@ -1,0 +1,45 @@
+[
+    {
+        "name": "piano",
+        "type": "keyboard"
+    },
+    {
+        "name": "organ",
+        "type": "keyboard"},
+    {
+        "name": "harpsichord",
+        "type": "keyboard"
+    },
+    {
+        "name": "flute",
+        "type": "wind"
+    },
+    {
+        "name": "oboe",
+        "type": "wind"
+    },
+    {
+        "name": "horn",
+        "type": "wind"
+    },
+    {
+        "name": "violin",
+        "type": "string"
+    },
+    {
+        "name": "viola",
+        "type": "string"
+    },
+    {
+        "name": "cello",
+        "type": "string"
+    },
+    {
+        "name": "chorus orchestra",
+        "type": "orchestra"
+    },
+    {
+        "name": "chamber orchestra",
+        "type": "orchestra"
+    }
+]

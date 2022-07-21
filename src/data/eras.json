@@ -1,0 +1,23 @@
+[
+    {"name":"Medieval",
+    "start":476,
+    "end":1400},
+    {"name":"Renaissance",
+    "start":1400,
+    "end":1600},
+    {"name":"Baroque",
+    "start":1600,
+    "end":1700},
+    {"name":"Classical",
+    "start":1730,
+    "end":1820},
+    {"name":"Romantic",
+    "start":1815,
+    "end":1910},
+    {"name":"Impressionist",
+    "start":1900,
+    "end":1945},
+    {"name":"Contemporary",
+    "start":1945,
+    "end":2022}
+]
